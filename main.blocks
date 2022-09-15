@@ -77,47 +77,53 @@
         # . . . # 
         . . . . .
         `</field><next><block type="device_show_leds" id="z_~N3Xc}j0.dKpoqe^~}"><field name="LEDS">`
+        . . # # # 
+        . . # . # 
+        . # # # # 
         . # # # . 
-        . # . . # 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . # # # .
         `</field><next><block type="device_show_leds" id="Men9enn.ajfJut%?7#KA"><field name="LEDS">`
+        . . # # # 
+        . . # . # 
         . # # # . 
-        . # . . . 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . # # # . 
+        . # # # .
         `</field><next><block type="device_show_leds" id="kd__gO/!k@aggQq#BU$2"><field name="LEDS">`
-        . # # . . 
-        . # . . . 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . . # # # 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
         `</field><next><block type="device_show_leds" id="tzw47E`L:K$R{:4xyn*e"><field name="LEDS">`
-        . # . . . 
-        . # . . . 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . . # # . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
         `</field><next><block type="device_show_leds" id="Vg.~fwHa1a~x=9Ffp3EK"><field name="LEDS">`
-        . . . . . 
-        . # . . . 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
         `</field><next><block type="device_show_leds" id="+@b[,{{U3b[!QVqm/e5M"><field name="LEDS">`
         . . . . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="9t.3udat;Ps/Nyu-EcNu"><field name="LEDS">`
         . . . . . 
-        # # # . . 
-        # # # . . 
-        # # # . .
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
         `</field><next><block type="device_show_leds" id="]Pqp?T.)zcHYC7c6a[Cj"><field name="LEDS">`
-        # . . . . 
-        . . . . # 
-        . . . # . 
-        . . # # . 
-        . . . # #
+        # . # . # 
+        # . # . # 
+        . # . # . 
+        # # # # # 
+        # . # . #
         `</field><next><block type="device_show_leds" id="kAaFZ[$*1STD;0Yh2??7"><field name="LEDS">`
         # # . . . 
         # . . . # 
@@ -184,4 +190,4 @@
         # . . . . 
         # # # . . 
         # . # . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>

@@ -1,5 +1,5 @@
 {
-    "name": "pong",
+    "name": "pong animation",
     "description": "",
     "dependencies": {
         "core": "*",
